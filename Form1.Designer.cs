@@ -54,7 +54,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.15F);
-            this.label1.Location = new System.Drawing.Point(157, 103);
+            this.label1.Location = new System.Drawing.Point(65, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 59);
             this.label1.TabIndex = 10;
@@ -64,7 +64,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.15F);
-            this.label2.Location = new System.Drawing.Point(346, 103);
+            this.label2.Location = new System.Drawing.Point(265, 47);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(59, 59);
             this.label2.TabIndex = 11;
@@ -74,7 +74,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.15F);
-            this.label3.Location = new System.Drawing.Point(538, 103);
+            this.label3.Location = new System.Drawing.Point(454, 47);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(62, 59);
             this.label3.TabIndex = 12;
@@ -84,7 +84,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.15F);
-            this.label4.Location = new System.Drawing.Point(236, 103);
+            this.label4.Location = new System.Drawing.Point(148, 47);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(85, 59);
             this.label4.TabIndex = 13;
@@ -94,7 +94,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 30.15F);
-            this.label5.Location = new System.Drawing.Point(428, 103);
+            this.label5.Location = new System.Drawing.Point(347, 47);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(85, 59);
             this.label5.TabIndex = 14;
@@ -102,49 +102,49 @@
             // 
             // textBoxA
             // 
-            this.textBoxA.Location = new System.Drawing.Point(126, 200);
+            this.textBoxA.Location = new System.Drawing.Point(33, 134);
             this.textBoxA.Name = "textBoxA";
             this.textBoxA.Size = new System.Drawing.Size(120, 22);
             this.textBoxA.TabIndex = 15;
             // 
             // textBoxB
             // 
-            this.textBoxB.Location = new System.Drawing.Point(314, 200);
+            this.textBoxB.Location = new System.Drawing.Point(233, 134);
             this.textBoxB.Name = "textBoxB";
             this.textBoxB.Size = new System.Drawing.Size(120, 22);
             this.textBoxB.TabIndex = 16;
             // 
             // textBoxC
             // 
-            this.textBoxC.Location = new System.Drawing.Point(499, 200);
+            this.textBoxC.Location = new System.Drawing.Point(429, 134);
             this.textBoxC.Name = "textBoxC";
             this.textBoxC.Size = new System.Drawing.Size(120, 22);
             this.textBoxC.TabIndex = 17;
             // 
             // numericUpDownA
             // 
-            this.numericUpDownA.Location = new System.Drawing.Point(126, 258);
+            this.numericUpDownA.Location = new System.Drawing.Point(33, 188);
             this.numericUpDownA.Name = "numericUpDownA";
             this.numericUpDownA.Size = new System.Drawing.Size(120, 22);
             this.numericUpDownA.TabIndex = 18;
             // 
             // numericUpDownB
             // 
-            this.numericUpDownB.Location = new System.Drawing.Point(314, 258);
+            this.numericUpDownB.Location = new System.Drawing.Point(233, 188);
             this.numericUpDownB.Name = "numericUpDownB";
             this.numericUpDownB.Size = new System.Drawing.Size(120, 22);
             this.numericUpDownB.TabIndex = 19;
             // 
             // numericUpDownC
             // 
-            this.numericUpDownC.Location = new System.Drawing.Point(499, 258);
+            this.numericUpDownC.Location = new System.Drawing.Point(429, 188);
             this.numericUpDownC.Name = "numericUpDownC";
             this.numericUpDownC.Size = new System.Drawing.Size(120, 22);
             this.numericUpDownC.TabIndex = 20;
             // 
             // trackBarA
             // 
-            this.trackBarA.Location = new System.Drawing.Point(126, 313);
+            this.trackBarA.Location = new System.Drawing.Point(33, 245);
             this.trackBarA.Maximum = 100;
             this.trackBarA.Name = "trackBarA";
             this.trackBarA.Size = new System.Drawing.Size(120, 56);
@@ -152,7 +152,7 @@
             // 
             // trackBarB
             // 
-            this.trackBarB.Location = new System.Drawing.Point(314, 313);
+            this.trackBarB.Location = new System.Drawing.Point(233, 245);
             this.trackBarB.Maximum = 100;
             this.trackBarB.Name = "trackBarB";
             this.trackBarB.Size = new System.Drawing.Size(120, 56);
@@ -160,7 +160,7 @@
             // 
             // trackBarC
             // 
-            this.trackBarC.Location = new System.Drawing.Point(499, 313);
+            this.trackBarC.Location = new System.Drawing.Point(429, 231);
             this.trackBarC.Maximum = 100;
             this.trackBarC.Name = "trackBarC";
             this.trackBarC.Size = new System.Drawing.Size(120, 56);
@@ -170,7 +170,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(745, 411);
+            this.ClientSize = new System.Drawing.Size(605, 330);
             this.Controls.Add(this.trackBarC);
             this.Controls.Add(this.trackBarB);
             this.Controls.Add(this.trackBarA);
